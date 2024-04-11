@@ -169,6 +169,20 @@ K. Jablonka, Qianxiang Ai, Alexander H Al-Feghali, S. Badhwar, Joshua D. Bocarsl
 [![](https://img.shields.io/badge/DigDis-5291C8?style=flat&logo=Read.cv&labelColor=555555)]([https://pubs.rsc.org/en/content/articlepdf/2023/dd/d3dd00113j](https://pubs.rsc.org/en/content/articlepdf/2023/dd/d3dd00113j))
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F822f41fdb57c57db614a27936474644daf12b715%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 
+* **Leveraging large language models for predictive chemistry**
+Kevin Maik Jablonka, Philippe Schwaller, Andres Ortega-Guerrero, Berend Smit
+*Nature Machine Intelligence, January 2024*
+[![](https://img.shields.io/badge/NatMachInt-5291C8?style=flat&logo=Read.cv&labelColor=555555)]([https://www.nature.com/articles/s42256-023-00788-1](https://www.nature.com/articles/s42256-023-00788-1))
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F389e6eca925821e4833beee8ddb4459a26241db3%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+
+* **Are large language models superhuman chemists?** 
+Adrian Mirza, Nawaf Alampara, Sreekanth Kunchapu, Benedict Emoekabu, Aswanth Krishnan, Mara Wilhelmi, Macjonathan Okereke, Juliane Eberhardt, Amir Mohammad Elahi, Maximilian Greiner, Caroline T. Holick, Tanya Gupta, Mehrdad Asgari, Christina Glaubitz, Lea C. Klepsch, Yannik Köster, Jakob Meyer, Santiago Miret, Tim Hoffmann, Fabian Alexander Kreth, Michael Ringleb, Nicole Roesner, Ulrich S. Schubert, Leanne M. Stafast, Dinga Wonanke, Michael Pieler, Philippe Schwaller, Kevin Maik Jablonka
+*Arxiv, April 2024*
+[![](https://img.shields.io/badge/arxiv-5291C8?style=flat&logo=Read.cv&labelColor=555555)]([https://arxiv.org/ftp/arxiv/papers/2310/2404.01475.pdf](https://arxiv.org/ftp/arxiv/papers/2310/2404.01475.pdf))
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F389e6eca925821e4833beee8ddb4459a26241db3%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+
 # License
 This repo is [MIT-licensed](https://github.com/microsoft/LLM4ScientificDiscovery/tree/main?tab=MIT-1-ov-file).
 
